@@ -1,13 +1,11 @@
 
-### Basic Patterns
-
 1.  Print a square pattern of `*` of size `n x n`. 
    -  Input:  `n = 3`
    -  Expected Output: 
       
-      *
-      *
-      *
+      ***
+      ***
+      ***
       
    -  Explanation:  The output should be a square of `n` rows and `n` columns of `*`.
 
@@ -19,7 +17,6 @@
       **
       ***
       
-   -  Explanation:  The first row has 1 star, the second row has 2 stars, and so on, forming a right-angled triangle.
 
 3.  Print an inverted right-angled triangle pattern of `*`. 
    -  Input:  `n = 3`
@@ -30,27 +27,6 @@
       *
       
    -  Explanation:  The first row has `n` stars, the second row has `n-1` stars, continuing until the last row has 1 star.
-
-4.  Print a pyramid pattern of `*`. 
-   -  Input:  `n = 3` (number of levels)
-   -  Expected Output: 
-  *
- ***
-*****
-   -  Explanation:  The stars are centered and increase by 2 for each level, creating a pyramid shape.
-
-5.  Print a diamond pattern of `*`. 
-   -  Input:  `n = 3` (middle width)
-   -  Expected Output: 
-      
-  *
- ***
-*****
- ***
-  *
-    
-   -  Explanation:  The pattern forms a diamond shape, starting with 1 star at the top, increasing to `n` stars, then decreasing symmetrically.
-
 
 8.  Print a number pattern where each row contains the same number (e.g., 1, 22, 333, etc.). 
    -  Input:  `n = 3`
@@ -81,8 +57,6 @@
       3
        
     -  Explanation:  Each row starts from `n` and decreases down to the row number.
-
-### Number Patterns
 
 11.  Print a multiplication table up to `n x n`. 
     -  Input:  `n = 3`
@@ -137,16 +111,6 @@
        
     -  Explanation:  Numbers are printed in a triangular format, starting from 1.
 
-18.  Print a pattern where each row contains the sum of the row number and column number. 
-    -  Input:  `n = 3`
-    -  Expected Output: 
-       
-      2 3 4
-      3 4 5
-      4 5 6
-       
-    -  Explanation:  Each cell contains the sum of the row and column indices.
-
 
 20.  Print a pattern where each row contains consecutive prime numbers. 
     -  Input:  `n = 3`
@@ -158,7 +122,26 @@
        
     -  Explanation:  Each row prints the next set of consecutive prime numbers.
 
-### Alphabets and Characters
+4.  Print a pyramid pattern of `*`. 
+   -  Input:  `n = 3` (number of levels)
+   -  Expected Output: 
+  *
+ ***
+*****
+   -  Explanation:  The stars are centered and increase by 2 for each level, creating a pyramid shape.
+
+5.  Print a diamond pattern of `*`. 
+   -  Input:  `n = 3` (middle width)
+   -  Expected Output: 
+      
+  *
+ ***
+*****
+ ***
+  *
+    
+   -  Explanation:  The pattern forms a diamond shape, starting with 1 star at the top, increasing to `n` stars, then decreasing symmetrically.
+
 
 21.  Print a square pattern of alphabets (A to Z). 
     -  Input:  `n = 3`
@@ -211,25 +194,6 @@
        
     -  Explanation:  Rows alternate between ABAB and BABA.
 
-26.  Print a pattern of alphabets in reverse order. 
-    -  Input:  `n = 3`
-    -  Expected Output: 
-       
-      C
-      B
-      A
-       
-    -  Explanation:  Each row starts from Z and goes backward by one letter.
-
-27.  Print a pyramid pattern of letters (e.g., A, ABA, ABCBA, etc.). 
-    -  Input:  `n = 3`
-    -  Expected Output: 
-       
-        A
-       ABA
-      ABCBA
-       
-    -  Explanation:  Letters mirror around the middle letter to form a pyramid.
 
 28.  Print a pattern where each row contains a sequence of letters starting from a different point in the alphabet. 
     -  Input:  `n = 3`
@@ -240,19 +204,6 @@
       C D E
        
     -  Explanation:  Each row starts from the next letter in the alphabet.
-
-29.  Print a diamond pattern of alphabets. 
-    -  Input:  `n = 3` (middle width)
-    -  Expected Output: 
-       
-        A
-       ABA
-      ABCBA
-       ABA
-        A
-       
-    -  Explanation:  The pattern mirrors alphabetically to form a diamond shape.
-
 30.  Print a pattern where each row contains letters and numbers combined. 
     -  Input:  `n = 3`
     -  Expected Output: 
@@ -299,34 +250,11 @@
        
     -  Explanation:  The stars form a zigzag pattern.
 
-### Mathematical Operations
-
-
-
-44.  Print a pattern where each cell contains the sum of its row and column numbers. 
-    -  Input:  `n = 3`
-    -  Expected Output: 
-       
-      2 3 4
-      3 4 5
-      4 5 6
-       
-    -  Explanation:  Each cell contains the sum of its row and column indices.
-
-45.  Print a pattern where each cell contains the product of its row and column numbers. 
-    -  Input:  `n = 3`
-    -  Expected Output: 
-       
-      1 2 3
-      2 4 6
-      3 6 9
-       
-    -  Explanation:  Each cell contains the product of its row and column indices.
 
 48.  Print the squares of numbers in a square grid. 
     -  Input:  `n = 3`
     -  Expected Output: 
-       
+        	
       1 4 9
       16 25 36
       49 64 81
