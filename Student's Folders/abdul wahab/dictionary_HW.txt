@@ -1,0 +1,36 @@
+1. Create a dictionary to store the names and ages of five people. Write a program to display the name of the oldest person.
+2. Write a program to add a new key-value pair to an existing dictionary.
+3. Write a program to create a nested dictionary and access its elements.
+
+5. Given a dictionary, write a program to check if a specific value exists in the dictionary.
+6. Write a program to swap the values of two keys in a dictionary.
+7. Write a program to check if two dictionaries are equal (i.e., have the same keys and values).
+8. Write a Python script to add a key to a dictionary.
+	Sample Dictionary : {0: 10, 1: 20}
+	Expected Result : {0: 10, 1: 20, 2: 30}
+
+9. Write a Python script to concatenate the following dictionaries to create a new one.
+
+Sample Dictionary :
+	dic1={1:10, 2:20}
+	dic2={3:30, 4:40}
+	dic3={5:50,6:60}
+
+Expected Result : {1: 10, 2: 20, 3: 30, 4: 40, 5: 50, 6: 60}
+
+10. Write a Python script to check whether a given key already exists in a dictionary.
+
+
+
+12. Write a Python program to remove a key from a dictionary.
+
+13. Write a Python program to check if a dictionary is empty or not.
+
+
+15. Write a Python program to create and display all combinations of letters, selecting each letter from a different key in a dictionary.
+Sample data : {'1':['a','b'], '2':['c','d']}
+Expected Output:
+ac
+ad
+bc
+bd
