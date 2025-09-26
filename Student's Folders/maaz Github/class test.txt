@@ -1,0 +1,120 @@
+### Double Quotes and Escape Sequences
+1. How do you create a string using double quotes in Python?
+2. What is the escape sequence for a newline character?
+3. Write a string that includes both single and double quotes using escape sequences.
+4. How do you include a backslash (`\`) in a string?
+5. What is the escape sequence for a tab character?
+6. Create a string that spans multiple lines using escape sequences.
+7. What does the `\t` escape sequence represent in a string?
+8. Write a string that contains a single quote using escape sequences.
+9. How do you include a Unicode character in a string using escape sequences?
+10. Write a string that includes a double backslash (`\\`).
+
+### Concatenating and Finding Length of Strings
+11. How do you concatenate two strings in Python?
+12. What is the `len()` function used for?
+13. Concatenate the strings "Hello" and "World".
+14. Find the length of the string "Python Programming".
+15. What is the result of concatenating the strings "123" and "456"?
+16. Write a program that concatenates three different strings.
+17. How can you add a space between two concatenated strings?
+18. Find the length of an empty string.
+19. Write a program that concatenates a string with an integer (converted to a string).
+20. Concatenate the string "Data" with the string "Science".
+
+### String Manipulation and Indexing
+
+21. How do you access the first character of a string?
+22. What is the index of the last character in a string of length 5?
+23. Write a program that changes the first character of a string to uppercase.
+24. How do you access the last character of a string?
+25. What does the `str[2]` expression return?
+26. Write a program that prints the third character of a string.
+27. How do you access a character at a specific position in a string?
+28. What will `str[-1]` return?
+29. Write a program that prints every second character of a string.
+30. How do you change the case of a specific character in a string?
+
+### Slicing in Python
+31. What does the slice `str[1:4]` return?
+32. Write a program that slices a string from the 2nd to the 5th character.
+33. How do you slice the first three characters of a string?
+34. What is the result of `str[:3]`?
+35. Write a program that slices the last three characters of a string.
+36. How do you slice a string from the 4th character to the end?
+37. What will `str[2:]` return?
+38. Write a program that slices a string from the beginning to the 5th character.
+39. How do you slice a string to exclude the first two characters?
+40. What is the result of `str[:-2]`?
+
+### String Indexing and Slicing
+41. Write a program that prints the first and last characters of a string.
+42. How do you access a substring in Python?
+43. What does `str[-3:-1]` return?
+44. Write a program that slices a string to get a specific word.
+45. How do you reverse a string using slicing?
+46. What is the result of `str[::-1]`?
+47. Write a program that prints every third character of a string.
+48. How do you slice a string with a step of 2?
+49. What will `str[1:6:2]` return?
+50. Write a program that slices a string to get a substring in reverse order.
+
+### Backward Counting and String Manipulation
+51. How do you access the second last character of a string?
+52. What is the index of the second last character in a string of length 6?
+53. Write a program that changes the last character of a string to uppercase.
+54. How do you access the third last character of a string?
+55. What will `str[-2]` return?
+56. Write a program that prints the last three characters of a string.
+57. How do you access characters from the end of a string?
+58. What will `str[-4:-1]` return?
+59. Write a program that prints every second character from the end of a string.
+60. How do you change the case of the last character in a string?
+
+### String Functions: `endswith`
+61. What does the `str.endswith()` function do?
+62. Write a program that checks if a string ends with a specific suffix.
+63. How do you use the `endswith()` function with multiple suffixes?
+64. What will `str.endswith("ing")` return?
+65. Write a program that checks if a string ends with "ed".
+66. How do you use the `endswith()` function to check for case-insensitive suffixes?
+67. What will `str.endswith("Python")` return?
+68. Write a program that checks if a string ends with a number.
+69. How do you use the `endswith()` function with a tuple of suffixes?
+70. What will `str.endswith(("",))` return?
+
+### String Functions: `replace` and `find`
+71. What does the `str.replace()` function do?
+72. Write a program that replaces all occurrences of "a" with "o" in a string.
+73. How do you replace a substring in a string?
+74. What will `str.replace("hello", "hi")` return?
+75. Write a program that replaces the first occurrence of a substring.
+76. How do you use the `replace()` function to remove a substring?
+77. What will `str.replace(" ", "")` return?
+78. Write a program that finds the first occurrence of a substring.
+79. How do you use the `find()` function to locate a substring?
+80. What will `str.find("Python")` return?
+
+### String Functions: `count`
+81. What does the `str.count()` function do?
+82. Write a program that counts the occurrences of "a" in a string.
+83. How do you count the occurrences of a substring in a string?
+84. What will `str.count("is")` return?
+85. Write a program that counts the occurrences of a substring in a sentence.
+86. How do you use the `count()` function to find the number of spaces in a string?
+87. What will `str.count(" ")` return?
+88. Write a program that counts the number of vowels in a string.
+89. How do you use the `count()` function to count characters in a string?
+90. What will `str.count("Python")` return?
+
+### Conditional Statements and Indentation
+91. What is a conditional statement in Python?
+92. Write a program that checks if a number is positive, negative, or zero.
+93. How do you use the `if` statement in Python?
+94. What will `if 5 > 3:` print?
+95. Write a program that checks if a string is empty.
+96. How do you use the `else` statement in Python?
+97. What will `if 5 < 3: else:` print?
+98. Write a program that checks if a number is even or odd.
+99. How do you use the `elif` statement in Python?
+100. What will `if 5 == 5: elif 5 < 5: else:` print?
