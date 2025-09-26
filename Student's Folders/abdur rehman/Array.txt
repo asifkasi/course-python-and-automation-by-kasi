@@ -1,0 +1,22 @@
+1. Write a C program that reads an integer between 1 and 12 and prints the month of the year in English.
+Test Data :
+Input a number between 1 to 12 to get the month name: 8
+Expected Output:
+August
+
+2. Write a C program that reads and prints the elements of an array of length 7. Before printing, replace every negative number, zero, with 100.
+Test Data:
+Input the 5 members of the array:
+25
+45
+35
+65
+15
+
+Expected Output:
+Array values are:
+n[0] = 25
+n[1] = 45
+n[2] = 35
+n[3] = 65
+n[4] = 15
