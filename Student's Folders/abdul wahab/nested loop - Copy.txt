@@ -1,0 +1,272 @@
+
+1.  Print a square pattern of `*` of size `n x n`. 
+   -  Input:  `n = 3`
+   -  Expected Output: 
+      
+      ***
+      ***
+      ***
+      
+   -  Explanation:  The output should be a square of `n` rows and `n` columns of `*`.
+
+2.  Print a right-angled triangle pattern of `*`. 
+   -  Input:  `n = 3`
+   -  Expected Output: 
+      
+      *
+      **
+      ***
+      
+
+3.  Print an inverted right-angled triangle pattern of `*`. 
+   -  Input:  `n = 3`
+   -  Expected Output: 
+      
+      ***
+      **
+      *
+      
+   -  Explanation:  The first row has `n` stars, the second row has `n-1` stars, continuing until the last row has 1 star.
+
+8.  Print a number pattern where each row contains the same number (e.g., 1, 22, 333, etc.). 
+   -  Input:  `n = 3`
+   -  Expected Output: 
+      
+     1
+     22
+     333
+      
+   -  Explanation:  Each row number `i` is printed `i` times.
+
+9.  Print a pattern of increasing numbers (e.g., 1, 12, 123, etc.). 
+   -  Input:  `n = 3`
+   -  Expected Output: 
+      
+     1
+     12
+     123
+      
+   -  Explanation:  Each row prints numbers from 1 up to the current row number.
+
+10.  Print a pattern of decreasing numbers (e.g., 321, 32, 3, etc.). 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      321
+      32
+      3
+       
+    -  Explanation:  Each row starts from `n` and decreases down to the row number.
+
+11.  Print a multiplication table up to `n x n`. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      1  2  3
+      2  4  6
+      3  6  9
+       
+    -  Explanation:  Each cell contains the product of its row and column indices.
+
+12.  Print a pattern of odd numbers in rows (e.g., 1, 3, 5, etc.). 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      1
+      3 5
+      7 9 11
+       
+    -  Explanation:  Each row contains consecutive odd numbers.
+
+13.  Print a pattern of even numbers in rows (e.g., 2, 4, 6, etc.). 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      2
+      4 6
+      8 10 12
+       
+    -  Explanation:  Each row contains consecutive even numbers.
+
+14.  Print a pattern of alternating 1s and 0s in a square grid. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      1 0 1
+      0 1 0
+      1 0 1
+       
+    -  Explanation:  The grid alternates between 1 and 0 in a checkerboard pattern.
+
+
+17.  Print the first `n` rows of Floyd's triangle. 
+    -  Input:  `n = 5`
+    -  Expected Output: 
+       
+      1
+      2 3
+      4 5 6
+      7 8 9 10
+      11 12 13 14 15
+       
+    -  Explanation:  Numbers are printed in a triangular format, starting from 1.
+
+
+20.  Print a pattern where each row contains consecutive prime numbers. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      2
+      3 5
+      7 11 13
+       
+    -  Explanation:  Each row prints the next set of consecutive prime numbers.
+
+4.  Print a pyramid pattern of `*`. 
+   -  Input:  `n = 3` (number of levels)
+   -  Expected Output: 
+  *
+ ***
+*****
+   -  Explanation:  The stars are centered and increase by 2 for each level, creating a pyramid shape.
+
+5.  Print a diamond pattern of `*`. 
+   -  Input:  `n = 3` (middle width)
+   -  Expected Output: 
+      
+  *
+ ***
+*****
+ ***
+  *
+    
+   -  Explanation:  The pattern forms a diamond shape, starting with 1 star at the top, increasing to `n` stars, then decreasing symmetrically.
+
+
+21.  Print a square pattern of alphabets (A to Z). 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      A B C
+      D E F
+      G H I
+       
+    -  Explanation:  Letters are filled in a square grid.
+
+22.  Print a pattern where each row contains the same letter (e.g., A, BB, CCC, etc.). 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      A
+      BB
+      CCC
+       
+    -  Explanation:  Each row repeats the letter corresponding to the row number.
+
+23.  Print a pattern of increasing letters (e.g., A, AB, ABC, etc.). 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      A
+      AB
+      ABC
+       
+    -  Explanation:  Each row adds one more letter, starting from A.
+
+24.  Print a pattern of decreasing letters (e.g., CBA, CB, C, etc.). 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      CBA
+      CB
+      C
+       
+    -  Explanation:  Each row starts from a higher letter and decreases to A.
+
+25.  Print a pattern where each row contains alternating letters (e.g., ABAB, BABA, etc.). 
+    -  Input:  `n = 4`
+    -  Expected Output: 
+       
+      ABAB
+      BABA
+      ABAB
+      BABA
+       
+    -  Explanation:  Rows alternate between ABAB and BABA.
+
+
+28.  Print a pattern where each row contains a sequence of letters starting from a different point in the alphabet. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      A B C
+      B C D
+      C D E
+       
+    -  Explanation:  Each row starts from the next letter in the alphabet.
+30.  Print a pattern where each row contains letters and numbers combined. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      A1
+      B2 C3
+      D4 E5 F6
+       
+    -  Explanation:  Letters and numbers are combined, incrementing as the rows increase.
+
+### Grid and Coordinate Patterns
+
+31.  Print a grid of coordinates `(row, col)`. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      (0,0) (0,1) (0,2)
+      (1,0) (1,1) (1,2)
+      (2,0) (2,1) (2,2)
+       
+    -  Explanation:  Each cell in the grid contains its coordinate position.
+
+35.  Print a diagonal pattern within a square grid. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      *  
+       * 
+        *
+       
+    -  Explanation:  The pattern contains stars along the diagonal.
+
+
+
+40.  Print a zigzag pattern within a grid. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      *  
+       * 
+        *
+       * 
+      *  
+       
+    -  Explanation:  The stars form a zigzag pattern.
+
+
+48.  Print the squares of numbers in a square grid. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+        	
+      1 4 9
+      16 25 36
+      49 64 81
+       
+    -  Explanation:  Each cell contains the square of its row and column indices.
+
+49.  Print the cubes of numbers in a square grid. 
+    -  Input:  `n = 3`
+    -  Expected Output: 
+       
+      1 8 27
+      64 125 216
+      343 512 729
+       
+    -  Explanation:  Each cell contains the cube of its row and column indices.
