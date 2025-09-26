@@ -1,0 +1,147 @@
+1 . Write a python program to convert specified days into years, weeks and days.
+Note: Ignore leap year.
+
+Test Data :
+Number of days : 1329
+Expected Output :
+Years: 3
+Weeks: 33
+Days: 3
+
+2. Write a python program to calculate the distance between two points.
+Test Data :
+Input x1: 25
+Input y1: 15
+Input x2: 35
+Input y2: 10
+Expected Output:
+Distance between the said points: 11.1803
+
+3. Write a python program to read an amount (integer value) and break the amount into the smallest possible number of bank notes.
+Test Data :
+Input the amount: 375
+Expected Output:
+There are:
+3 Note(s) of 100.00
+1 Note(s) of 50.00
+1 Note(s) of 20.00
+0 Note(s) of 10.00
+1 Note(s) of 5.00
+0 Note(s) of 2.00
+0 Note(s) of 1.00
+
+4. Write a python program to convert a given integer (in seconds) to hours, minutes and seconds.
+Test Data :
+Input seconds: 25300
+Expected Output:
+There are:
+H:M:S - 7:1:40
+
+5. Write a python program to convert a given integer (in days) to years, months and days, assuming that all months have 30 days and all years have 365 days.
+Test Data :
+Input no. of days: 2535
+Expected Output:
+6 Year(s)
+11 Month(s)
+15 Day(s)
+
+6.  Write a python program to swap two numbers.
+Test Data:
+Input the First Number : 5
+Input the Second Number : 6
+Expected Output:
+After Swapping :
+First Number : 6
+Second Number : 5
+
+7. Write a python program to print the output of the multiplication of three numbers entered by the user.
+Test Data:
+Input the first number to multiply: 2
+Input the second number to multiply: 3
+Input the third number to multiply: 6
+Expected Output:
+2 x 3 x 6 = 36
+
+8. Write a python program that takes a number as input and displays it four times in a row (separated by blank spaces), and then four times in the next row, with no separation. You should do it twice.
+
+Test Data:
+Enter a digit: 25
+Expected Output:
+25 25 25 25
+25252525
+25 25 25 25
+25252525
+
+9. Write a python program that removes a specified character from a non-empty string using the index of a character.
+Test Data:
+Asif Kasi S/O Qasim kasi
+Sample Output:
+Asif-Kasi S/O Qasim kasi
+
+
+10. Write a python program to create a new string from a given string where the first and last characters change their positions.
+Test Data:
+Asif Kasi S/O Qasim kasi
+Python
+Sample Output:
+isif Kasi S/O Qasim kasA
+nythoP
+
+
+11. Write a python program and compute the sum of an integer's digits.
+Sample Output:
+Input a number(integer): 12
+Sum of the digits of the said integer: 3
+
+
+12. Remove first white space from variable.
+Test Data:
+Asif Kasi S/O Qasim Kasi
+
+Sample Output:
+AsifKasi S/O Qasim kasi
+
+13. Replace all white space with -.
+Test Data:
+Asif Kasi S/O Qasim Kasi
+
+Sample Output:
+Asif-Kasi-S/O-Qasim-Kasi
+
+
+14. Check variable value starts with "Asif" or not?
+Test Data:
+Asif Kasi S/O Qasim Kasi
+Kasi S/O Qasim Kasi
+
+Sample Output:
+Yes
+NO
+
+
+15. Remove white space from start and end from vaiable value.
+Test Data:
+ Asif Kasi S/O Qasim Kasi 
+
+Sample Output:
+Asif Kasi S/O Qasim Kasi
+
+
+17. Check variable value ends with "Kasi" or not?
+Test Data:
+Asif Kasi S/O Qasim Kasi
+Kasi S/O Qasim Kasi
+
+Sample Output:
+Yes
+NO
+
+
+18. Takes an input value from user and Convert each character of variable into list.
+Test Data:
+Asif Kasi S/O Qasim Kasi
+
+Sample Output:
+['A', 's', 'i', 'f', ' ', 'K', 'a', 's', 'i', ' ', 'S', '/', 'O', ' ', 'Q', 'a', 's', 'i', 'm', ' ', 'K', 'a', 's', 'i']
+
+
