@@ -1,0 +1,38 @@
+
+1. Write a program that accepts three integers and finds the maximum of three.
+Test Data :
+Input the first integer: 25
+Input the second integer: 35
+Input the third integer: 15
+Expected Output:
+Maximum value of three integers: 35
+
+
+3.Write a program that reads 5 numbers and sums all odd values between them.
+Test Data :
+Input the first number: 11
+Input the second number: 17
+Input the third number: 13
+Input the fourth number: 12
+Input the fifth number: 5
+Expected Output:
+Sum of all odd values: 46
+
+4. Write a program that reads two integers and checks whether they are multiplied or not.
+Test Data :
+Input the first number: 5
+Input the second number: 15
+Expected Output:
+Multiplied!
+
+5. Write a program to read the coordinates (x, y) (in the Cartesian system) and find the quadrant to which it belongs (Quadrant -I, Quadrant -II, Quadrant -III, Quadrant -IV).
+Note: A Cartesian coordinate system is a coordinate system that specifies each point uniquely in a plane by a pair of numerical coordinates.
+These are often numbered from 1st to 4th and denoted by Roman numerals: I (where the signs of the (x,y) coordinates are I(+,+), II (−,+), III (−,−), and IV (+,−).
+Test Data :
+Input the Coordinate(x,y):
+x: 25
+y: 15
+Expected Output:
+Quadrant-I(+,+)
+
+8. Write a program to compute the sum of two given integers. If two values are the same, return the triple of their sum.
