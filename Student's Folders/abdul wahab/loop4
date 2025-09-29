@@ -1,0 +1,7 @@
+str1="apna"
+len1=len(str1)
+print(len1)
+
+str2="collage"
+len2=len(str2)
+print(len2)
