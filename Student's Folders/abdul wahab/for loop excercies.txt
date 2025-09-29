@@ -1,0 +1,148 @@
+
+14. Write a Python program to combine two dictionary by adding values for common keys.
+d1 = {'a': 100, 'b': 200, 'c':300}
+d2 = {'a': 300, 'b': 200, 'd':400}
+Sample output: Counter({'a': 400, 'b': 400, 'd': 400, 'c': 300})
+
+16. Write a Python program to combine values in a list of dictionaries.
+Sample data: [{'item': 'item1', 'amount': 400}, {'item': 'item2', 'amount': 300}, {'item': 'item1', 'amount': 750}]
+Expected Output: Counter({'item1': 1150, 'item2': 300})
+
+
+
+0.0.0 Write a Python program to print 3 numbers on a line, starting with 1 and printing n lines. Accept the number of lines (n, integer) from the user.
+Test Data :
+Input number of lines: 5
+Expected Output:
+1 2 3
+4 5 6
+7 8 9
+10 11 12
+13 14 15
+
+
+0.0.2 Write a Python program that reads two integers p and q, prints p number of lines in a sequence of 1 to b in a line.
+Test Data :3
+Input number of lines: 5
+Number of characters in a line: 6
+Expected Output:
+1 2 3 4 5 6
+7 8 9 10 11 12
+13 14 15 16 17 18
+19 20 21 22 23 24
+25 26 27 28 29 30
+
+
+
+0.9 Write a C# program to compute the sum of the first 500 prime numbers.
+Sample Output:
+Sum of the first 500 prime numbers:
+8246930.10 
+
+
+
+4. Write a program to list non-prime numbers from 1 to an upperbound.
+Input the upperlimit: 25
+Sample Output:
+The non-prime numbers are: 4 6 8 9 10 12 14 15 16 18 20 21 22 24 25
+
+
+13. Write a program to find the sum of the series 1 +11 + 111 + 1111 + .. n terms.
+Test Data :
+Input the number of terms : 5
+Expected Output :
+1 + 11 + 111 + 1111 + 11111
+The Sum is : 12345
+
+
+15. Write a program to determine whether a given number is prime or not.
+ Test Data :
+Input a number: 13
+Expected Output :
+13 is a prime number.
+
+16. Write a program to display the first n terms of the Fibonacci series.
+Fibonacci series 0 1 2 3 5 8 13 .....
+Test Data :
+Input number of terms to display : 10
+Expected Output :
+Here is the Fibonacci series upto to 10 terms :
+0 1 1 2 3 5 8 13 21 34
+
+
+20. Write a program to convert a decimal number into binary without using an array.
+Test Data :
+Input a decimal number: 25
+Binary number equivalent to said decimal number is: 11001
+
+
+21. Write a program to convert a binary number into a decimal number without using array, function and while loop.
+Test Data :
+Input a binary number :1010101
+Expected Output :
+The Binary Number : 1010101
+The equivalent Decimal Number : 85
+
+
+26. Write a program to convert a decimal number into octal without using an array.
+Test Data :
+Enter a number to convert : 79
+Expected Output :
+The Octal of 79 is 117.
+
+27. Write a program to convert an octal number to a decimal without using an array.
+Test Data :
+Input an octal number (using digit 0 - 7) :745
+Expected Output :
+The Octal Number : 745
+The equivalent Decimal Number : 485
+
+28. Write a program to find the sum of the G.P. series.
+Test Data :
+Input the first number of the G.P. series: 3
+Input the number or terms in the G.P. series: 5
+Input the common ratio of G.P. series: 2
+Expected Output :
+The numbers for the G.P. series:
+3.000000 6.000000 12.000000 24.000000 48.000000
+The Sum of the G.P. series : 93.000000
+
+29. Write a program to convert a binary number to octal.
+Test Data :
+Input a binary number :1001
+Expected Output :
+The Binary Number : 1001
+The equivalent Octal Number : 11
+
+30. Write a program to convert an octal number into binary.
+Test Data :
+Input an octal number (using digit 0 - 7) :57
+Expected Output :
+The Octal Number : 57
+The equivalent Binary Number : 101111
+
+
+31. Write a program to convert a decimal number to hexadecimal.
+Test Data :
+Input any Decimal number: 79
+Expected Output :
+The equivalent Hexadecimal Number : 4F
+
+32. Write a program to show a number can be expressed as the sum of two number.
+Input: 5
+Output: 
+5=1+4
+5=2+3
+5=3+2
+5=4+1
+
+33. Write a program to print a string in reverse order.
+Test Data :
+Input a string to reverse : Welcome
+Expected Output :
+Reversed string is: emocleW
+
+34. Write a program that takes user input and counts the number of unique characters.
+Test Data :
+Input characters: Asif Kasi
+Number of Characters: 6
