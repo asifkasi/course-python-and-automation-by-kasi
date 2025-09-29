@@ -1,0 +1,8 @@
+7. Create a function that counts how many vowels are in a string.
+9. Create a function that reverses a string without using slicing.
+10. Write a function that accepts a dictionary and returns the key with the maximum value.
+11. Write a function that checks if a given string is a palindrome.
+12. Create a function that calculates the Fibonacci sequence up to `n` terms.
+13. Write a function that takes a sentence and returns a dictionary with word frequencies.
+15. Write a function that simulates a calculator (supports +, -, \*, / based on user input).
+
