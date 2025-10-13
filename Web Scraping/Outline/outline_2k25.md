@@ -6,34 +6,34 @@
 * Quick intro to HTTP, HTML/DOM, CSS selectors, JSON
 * Mini-lab: parse a simple HTML page and save data to CSV
 
-## 1) Core Scraping with `requests` + `BeautifulSoup`
+## Week 1) Core Scraping with `requests` + `BeautifulSoup`
 
 * Requests basics: methods, headers, cookies, sessions
 * Parsing with Soup: find/select, CSS selectors vs. tag traversal
 * Pagination patterns & URL discovery
 * Project 1: scrape book titles/prices from *books.toscrape.com* and export CSV/JSON
 
-## 2) Selectors, XPath & Regex Precision
+## Week 2) Selectors, XPath & Regex Precision
 
 * CSS specificity, nth-child, attribute selectors
 * XPath fundamentals (when & why)
 * Light use of regex for cleanup (not for full parsing)
 * Lab: build robust selectors; write selector tests
 
-## 3) Working with Statics and Dynamic Sites (JS-rendered)
+## Week 3) Working with Statics and Dynamic Sites (JS-rendered)
 
 * When static fails: detecting JS rendering
 * Headless browsers: Playwright (preferred) vs Selenium
 * Waiting strategies: locators, network idle, timeouts
 * Project 2: scrape infinite scroll results (e.g., a demo shop like *scrapeme.live/shop*)
 
-## 4) Sessions, Logins, and State
+## Week 4) Sessions, Logins, and State
 
 * Cookies, auth flows, CSRF tokens, maintaining sessions
 * Handling redirects; form submissions
 * Project 3: log in to a practice site and scrape your dashboard data (use a demo site you control)
 
-## 5) Anti-bot Hygiene, Ethics & Compliance (must-have)
+## Week 5) Anti-bot Hygiene, Ethics & Compliance (must-have)
 
 * `robots.txt`, Terms of Service, fair use, rate limits
 * Polite scraping: concurrency caps, jitter, exponential backoff, retries
@@ -41,53 +41,53 @@
 * CAPTCHAs: detect & avoid (do not bypass); prefer APIs/allowlisted sources
 * Lab: add retry/backoff & caching to an existing scraper
 
-## 7) Data Storage & Pipelines
+## Week 7) Data Storage & Pipelines
 
 * Writing to CSV/JSON/Parquet
 * SQLite/PostgreSQL basics; SQLAlchemy
 * File storage & structure for large runs
 * Project 5: store scraped jobs/news into a Postgres DB and build a simple query script
 
-## 8) Automation & RPA with Playwright
+## Week 8) Automation & RPA with Playwright
 
 * Filling forms, clicking, file uploads, keyboard/clipboard
 * Scheduling tasks (cron/Task Scheduler) & notifications (email/webhook)
 * Project 6: daily automation bot—login → download a report → clean → email summary
 
-## 9) Async & High-Throughput Scraping
+## Week 9) Async & High-Throughput Scraping
 
 * Concurrency primitives: `asyncio`, `aiohttp`, semaphores
 * Rate limiting per host; connection pools
 * Batching URLs & graceful error handling
 * Project 7: async price monitor for 200+ product URLs with delta alerts
 
-## 10) APIs First (When Available)
+## Week 10) APIs First (When Available)
 
 * Finding & using public APIs; reading API docs
 * Auth: API keys, OAuth basics; pagination & filtering
 * Project 8: compare API vs. scrape for the same data; measure speed/accuracy
 
-## 11) Cleaning, Validation, and QA
+## Week 11) Cleaning, Validation, and QA
 
 * Normalizing text, dates, currency; duplicate detection
 * Pydantic for data models & validation
 * Snapshot tests, golden files, and pytest for scrapers
 * Lab: write tests that fail when site layout changes
 
-## 12) Files, Media & Edge Cases
+## Week 12) Files, Media & Edge Cases
 
 * Downloading files (PDF/images) with streaming & checksum
 * Extracting text from PDFs (pdfminer/pymupdf) and basic OCR (Tesseract) when permitted
 * Project 9: PDF report collector → extract tables → append to DB
 
-## 13) Monitoring, Logging & Observability
+## Week 13) Monitoring, Logging & Observability
 
 * Structured logs; rotating log files
 * Job run summaries & alerts (Slack/email)
 * Run IDs, checkpoints, idempotency
 * Lab: add metrics & alerts to a long-running crawler
 
-## 14) Packaging & Deployment
+## Week 14) Packaging & Deployment
 
 * Dockerizing scrapers; environment variables & secrets
 * Cloud runs: GitHub Actions, serverless (AWS Lambda/Cloud Run) basics
