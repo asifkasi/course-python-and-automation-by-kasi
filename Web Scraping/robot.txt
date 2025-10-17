@@ -1,0 +1,17 @@
+
+https://en.wikipedia.org/robots.txt
+
+# advertising-related bots:
+User-agent: Mediapartners-Google*
+Disallow: /
+
+# Wikipedia work bots:
+User-agent: IsraBot
+Disallow:
+
+Disallow:
+
+Disallow: / = block all paths. Those bots must not crawl the site.
+Empty Disallow = no restrictions. IsraBot may crawl the site (subject to any other policies like rate limits).
+
+User-agent
