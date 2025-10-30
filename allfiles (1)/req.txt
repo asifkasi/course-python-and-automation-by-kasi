@@ -1,0 +1,6 @@
+Flask
+mss
+Pillow
+pandas
+BeautifulSoup
+requests
