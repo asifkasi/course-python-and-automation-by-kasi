@@ -9,7 +9,6 @@ basic
 	1. Write a Python program to get the number of datasets currently listed on data.gov.
 	2. Write a Python program to display the name of the most recently added dataset on data.gov.
 
-
 	Twitter.com/ x.com
 	1. Write a Python program to get the number of followers of a given twitter account.
 	2. Write a Python program to get the number of following on a Twitter account.
@@ -19,6 +18,7 @@ basic
 
 	other websites
 	1. https://webscraper.io/test-sites
+		1.1 extract first product of a page. (product_name,product_index,product_desc,product_url,img_url)
 	2. https://www.scrapethissite.com/pages/
 	3. https://books.toscrape.com/
 
