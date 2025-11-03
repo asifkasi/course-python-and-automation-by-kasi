@@ -1,0 +1,15 @@
+1. complete basic questions
+
+basics
+error handing
+pagination
+crawling
+dynamic websites
+captcha bypass
+contents zoom out examples
+fbr captcha write
+adding extension (vpn, captcha bypass)
+property 24 auto-click
+
+projects
+

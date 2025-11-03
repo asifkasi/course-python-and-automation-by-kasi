@@ -1,0 +1,45 @@
+basic
+	wikipedia.org.
+	1. Write a Python program to extract and display all the header tags from en.wikipedia.org/wiki/Main_Page
+	2. Write a Python program to extract and display all the image links from en.wikipedia.org/wiki/Peter_Jeffrey_(RAAF_officer).
+	3. Write a Python program to that retrieves an arbitary Wikipedia page of "Python" and creates a list of links on that page https://en.wikipedia.org/wiki/Python.
+	4. Write a Python program to list all language names and number of related articles in the order they appear in wikipedia.org.
+
+	data.gov
+	1. Write a Python program to get the number of datasets currently listed on data.gov.
+	2. Write a Python program to display the name of the most recently added dataset on data.gov.
+
+	Twitter.com/ x.com
+	1. Write a Python program to get the number of followers of a given twitter account.
+	2. Write a Python program to get the number of following on a Twitter account.
+	3. Write a Python program to get the number of post on Twitter liked by a given account.
+	4. Write a Python program to count number of tweets by a given Twitter account.
+	5. Write a Python program to count number of tweets by a given Twitter account.
+
+	other websites
+	1. https://webscraper.io/test-sites
+		1.1 extract first product of a page. (product_name,product_index,product_desc,product_url,img_url)
+	2. https://www.scrapethissite.com/pages/
+	3. https://books.toscrape.com/
+
+
+Medium
+	1. https://www.cisa.gov/news-events/cybersecurity-advisories
+	2. Write a Python program to download IMDB's Top 250 data (movie name, Initial release, director name and stars).
+		movie_title, index_no, year, place, ratings, votes, link
+
+
+advanced
+	1. https://www.accuweather.com/en/search-locations?query=karachi
+	1.1 will show the list of cities
+	1.2 open first link and extract {temprature, wind, wind gusts, air quality}
+
+	2. Write a Python program to get movie name, year and a brief summary of the top 10 random movies.
+	3. download pdfs from psb or something
+	4. save all images form Wikipedia q2.
+learning urls
+	https://www.learnvern.com/course/web-scraping-using-beautifulsoup-tutorial
+	https://realpython.com/courses/exercises-introduction-web-scraping/
+
+	https://hasdata.com/blog/web-scraping-with-python
+	https://www.firecrawl.dev/blog/python-web-scraping-projects
