@@ -1,0 +1,7 @@
+product name,product description,product-link,image url
+E-commerce site,"E-commerce site with multiple categories, subcategories. All items are loaded in one page.",/test-sites/e-commerce/allinone,/images/test-sites/screens/test-sites-ecommerce-allinone.png
+E-commerce site with pagination links,"E-commerce site with multiple categories, subcategories. Standard links are used for pagination.",/test-sites/e-commerce/static,/images/test-sites/screens/test-sites-ecommerce-static.png
+E-commerce site with AJAX pagination links,"E-commerce site with multiple categories, subcategories. Dynamic links that use data without reloading the page for pagination.",/test-sites/e-commerce/ajax,/images/test-sites/screens/test-sites-ecommerce-ajax.png
+"E-commerce site with ""Load more"" buttons","E-commerce site with multiple categories, subcategories. Instead of using pagination this site uses a ""Load more"" button to load more items.",/test-sites/e-commerce/more,/images/test-sites/screens/test-sites-ecommerce-more.png
+E-commerce site that loads items while scrolling,"E-commerce site with multiple categories, subcategories. Instead of using pagination this site loads items when user scrolls the page down.",/test-sites/e-commerce/scroll,/images/test-sites/screens/test-sites-ecommerce-allinone.png
+Table playground,This page contains multiple tables. You can train using Table selector here.,/test-sites/tables,/images/test-sites/screens/test-sites-tables.png
