@@ -41,14 +41,14 @@ done	1.4 Extract fist five pages & save into single csv file.
 
 
 2. https://www.imdb.com/chart/top/ (movie_title, movie_index, year, ratings, votes, link)
-	2.1 Extract First movie details and save into csv.
-	2.1 Extract All 250 movies details and save into csv.
+done	2.1 Extract First movie details and save into csv.
+done	2.1 Extract All 250 movies details and save into csv.
 
 3. https://www.scrapethissite.com/pages/forms/ (Team Name, Year, Wins, Losses, OT Losses, Win %, Goals For (GF), Goals Against (GA), + / -)
-	3.1 Extract Table of first page & save into csv file.
+done	3.1 Extract Table of first page & save into csv file.
 	3.2 Extract Table of second page & save into another csv file.
 	3.3 Extract Table of fist five pages & save into single csv file.
-	3.4 Extract Table of first page of 100 records/rows & save into another csv file.
+	3.4 Extract Table of first page of 100 records/rows & save into another csv file. (https://www.scrapethissite.com/pages/forms/?per_page=100)
 
 4. https://webscraper.io/test-sites/tables
 	4.1 Extract first Table of a page & save into csv file.
