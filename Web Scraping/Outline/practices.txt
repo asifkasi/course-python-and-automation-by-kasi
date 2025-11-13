@@ -21,15 +21,14 @@ done 	2.2 Extract all paragraphs details of a page & save into csv file.
 
 3. https://books.toscrape.com/ (Product_name,product_img, product_reviews_star_no, product_price, product_availabililty)
 	
-	3.1 Extract first product details save into csv file. e.g# A Light in the ...
-	3.2 Extract product details from first row & save into csv file. e.g# A Light in the ..., Tipping the Velvet, Soumission
-	3.3 Extract all product details from page & save into csv file.
-	3.4 Extract all product details of first column save into csv file.
-	3.5 Extract all product details of Second column save into csv file.
-	3.6 Extract all product details of thirst column save into csv file.
-	3.7 Extract all product details from first page & save into csv file.
-	3.8 Extract all product details from second page & save into another csv file.
-	3.9 Extract all product details from first page to fifth page & save into single csv file.
+done	3.1 Extract first product details save into csv file. e.g# A Light in the ...
+done	3.2 Extract product details from first row & save into csv file. e.g# A Light in the ..., Tipping the Velvet, Soumission
+done	3.3 Extract all product details from page & save into csv file.
+done	3.4 Extract all product details of first column save into csv file.
+done	3.5 Extract all product details of Second column save into csv file.
+done	3.6 Extract all product details of thirst column save into csv file.
+done	3.8 Extract all product details from second page & save into another csv file.
+done	3.9 Extract all product details from first page to fifth page & save into single csv file.
 
 	
 Medium
@@ -46,43 +45,43 @@ done	2.1 Extract All 250 movies details and save into csv.
 
 3. https://www.scrapethissite.com/pages/forms/ (Team Name, Year, Wins, Losses, OT Losses, Win %, Goals For (GF), Goals Against (GA), + / -)
 done	3.1 Extract Table of first page & save into csv file.
-	3.2 Extract Table of second page & save into another csv file.
-	3.3 Extract Table of fist five pages & save into single csv file.
-	3.4 Extract Table of first page of 100 records/rows & save into another csv file. (https://www.scrapethissite.com/pages/forms/?per_page=100)
+done	3.2 Extract Table of second page & save into another csv file.
+done	3.3 Extract Table of fist five pages & save into single csv file.
+done	3.4 Extract Table of first page of 100 records/rows & save into another csv file. (https://www.scrapethissite.com/pages/forms/?per_page=100)
 
 4. https://webscraper.io/test-sites/tables
-	4.1 Extract first Table of a page & save into csv file.
-	4.2 Extract second Table of a page & save into another csv file.
-	4.3 Extract both Tables of a page & save into single csv file.
+done	4.1 Extract first Table of a page & save into csv file.
+done	4.2 Extract second Table of a page & save into another csv file.
+done	4.3 Extract both Tables of a page & save into single csv file.
 
 5. https://www.scrapethissite.com/pages/simple/ (coutry_name, Capital, Population, Area)
-	5.1 Extract first country details of a page & save into csv file. e.g# Andorra
-	5.2 Extract country details of a first row of a page & save into csv file. e.g# Andorra, United Arab Emirates, Afghanistan
-	5.3 Extract all country details of a page & save into csv file.
-	5.4 Extract country details of a first column of a page & save into csv file.  
-	5.5 Extract country details of a Second column of a page & save into csv file. 
-	5.6 Extract country details of a Third column of a page & save into csv file.
+done	5.1 Extract first country details of a page & save into csv file. e.g# Andorra
+done	5.2 Extract country details of a first row of a page & save into csv file. e.g# Andorra, United Arab Emirates, Afghanistan
+done	5.3 Extract all country details of a page & save into csv file.
+done	5.4 Extract country details of a first column of a page & save into csv file.  
+done	5.5 Extract country details of a Second column of a page & save into csv file. 
+done	5.6 Extract country details of a Third column of a page & save into csv file.
 
 6. https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops (product_name, product_link, product_img,product_price, product_details, product_reviews_number,product_reviews_star_number)
 
-	6.1 Extract first product details save into csv file. e.g# Asus VivoBook...
-	6.2 Extract product details from first row & save into csv file. e.g# Asus VivoBook..., Prestigio Smar...,Prestigio Smar...
-	6.3 Extract all product details from page & save into csv file.
-	6.4 Extract all product details of first column save into csv file.
-	6.5 Extract all product details of Second column save into csv file.
-	6.6 Extract all product details of thirst column save into csv file.
+done	6.1 Extract first product details save into csv file. e.g# Asus VivoBook...
+done	6.2 Extract product details from first row & save into csv file. e.g# Asus VivoBook..., Prestigio Smar...,Prestigio Smar...
+done	6.3 Extract all product details from page & save into csv file.
+done	6.4 Extract all product details of first column save into csv file.
+done	6.5 Extract all product details of Second column save into csv file.
+done	6.6 Extract all product details of thirst column save into csv file.
 
 7. https://webscraper.io/test-sites/e-commerce/static/computers/laptops (product_name, product_link, product_img, product_price, product_details, product_reviews_number, product_reviews_star_number )
 
-	7.1 Extract first product details save into csv file. e.g# Packard 255 G2
-	7.2 Extract product details from first row & save into csv file. e.g# Packard 255 G2, Aspire E1-510, ThinkPad T540p
-	7.3 Extract all product details from first page & save into csv file.
-	7.4 Extract all product details from second page & save into another csv file.
-	7.5 Extract all product details from first page to fifth page & save into single csv file.
+done	7.1 Extract first product details save into csv file. e.g# Packard 255 G2
+done	7.2 Extract product details from first row & save into csv file. e.g# Packard 255 G2, Aspire E1-510, ThinkPad T540p
+done	7.3 Extract all product details from first page & save into csv file.
+done	7.4 Extract all product details from second page & save into another csv file.
+done	7.5 Extract all product details from first page to fifth page & save into single csv file.
 
 8. https://books.toscrape.com/ (Product_name(full name click via clicking on product url),Product_Description, UPC, Product_Type, Price_excl_tax, Price_incl_tax, Tax, Availability_numbers, Number_of_reviews, product_img, product_reviews_star_no, product_price, product_availabililty)
 
-	8.1 Extract first product details save into csv file. e.g# A Light in the ...
+	8.1 Extract first product details save into csv file. e.g# A Light in the Attic
 	8.2 Extract product details from first row & save into csv file. e.g# A Light in the ..., Tipping the Velvet, Soumission
 	8.3 Extract all product details from page & save into csv file.
 	8.4 Extract all product details of first column save into csv file.
