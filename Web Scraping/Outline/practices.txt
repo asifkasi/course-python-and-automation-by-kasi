@@ -1,10 +1,10 @@
 basic
 
 wikipedia.org.
-done 1. Write a Python program to extract and display all the header tags from en.wikipedia.org/wiki/Main_Page
-done 2. Write a Python program to extract and display all the image links from en.wikipedia.org/wiki/Peter_Jeffrey_(RAAF_officer).
-done 3. Write a Python program to that retrieves an arbitary Wikipedia page of "Python" and creates a list of links on that page https://en.wikipedia.org/wiki/Python.
-4. Write a Python program to list all language names and number of related articles in the order they appear in wikipedia.org.
+done	1. Write a Python program to extract and display all the header tags from en.wikipedia.org/wiki/Main_Page
+done	2. Write a Python program to extract and display all the image links from en.wikipedia.org/wiki/Peter_Jeffrey_(RAAF_officer).
+done	3. Write a Python program to that retrieves an arbitary Wikipedia page of "Python" and creates a list of links on that page https://en.wikipedia.org/wiki/Python.
+done	4. Write a Python program to list all language names and number of related articles in the order they appear in wikipedia.org.
 
 data.gov
 done b1. Write a Python program to get the number of datasets currently listed on data.gov.
@@ -81,38 +81,37 @@ done	m7.5 Extract all product details from first page to fifth page & save into 
 
 m8. https://books.toscrape.com/ (Product_name(full name click via clicking on product url),Product_Description, UPC, Product_Type, Price_excl_tax, Price_incl_tax, Tax, Availability_numbers, Number_of_reviews, product_img, product_reviews_star_no, product_price, product_availabililty)
 
-	m8.1 Extract first product details save into csv file. e.g# A Light in the Attic
-	m8.2 Extract product details from first row & save into csv file. e.g# A Light in the ..., Tipping the Velvet, Soumission
-	m8.3 Extract all product details from page & save into csv file.
-	m8.4 Extract all product details of first column save into csv file.
-	m8.5 Extract all product details of Second column save into csv file.
-	m8.6 Extract all product details of thirst column save into csv file.
-	m8.7 Extract all product details from first page & save into csv file.
-	m8.8 Extract all product details from second page & save into another csv file.
-	m8.9 Extract all product details from first page to fifth page & save into single csv file.
+done	m8.1 Extract first product details save into csv file. e.g# A Light in the Attic
+done	m8.2 Extract product details from first row & save into csv file. e.g# A Light in the ..., Tipping the Velvet, Soumission
+done	m8.3 Extract all product details from page & save into csv file.
+done	m8.4 Extract all product details of first column save into csv file.
+done	m8.5 Extract all product details of Second column save into csv file.
+done	m8.6 Extract all product details of thirst column save into csv file.
+done	m8.7 Extract all product details from first page & save into csv file.
+done	m8.8 Extract all product details from second page & save into another csv file.
+done	m8.9 Extract all product details from first page to fifth page & save into single csv file.
 
 
 
 advanced
-a1. https://www.accuweather.com/en/search-locations?query=karachi
-	a1.1 will show the list of cities
-	a1.2 open first link and extract {temprature, wind, wind gusts, air quality}
-	a1.3 Takes Pakistani city name as input from user, and find {temprature, wind, wind gusts, air quality}. Note: Make a list of city, convert input into lowercase and check city name is correct or not.  
-	a1.4 Takes Pakistani city name as input from user, and find {temprature, wind, wind gusts, air quality}. Note: Make a list of city, convert input into lowercase and match the city name via fuzzy match.  
+Optional a1. https://www.accuweather.com/en/search-locations?query=karachi
+		a1.1 open first link and extract {temprature, wind, wind gusts, air quality}
+		a1.3 Takes Pakistani city name as input from user, and find {temprature, wind, wind gusts, air quality}. Note: Make a list of city, convert input into lowercase and check city name is correct or not.  
+		a1.4 Takes Pakistani city name as input from user, and find {temprature, wind, wind gusts, air quality}. Note: Make a list of city, convert input into lowercase and match the city name via fuzzy match.  
 
-a2. Write a Python program to get movie name, year and a brief summary of the top 10 movies from url (https://www.imdb.com/chart/top/).
+done	a2. Write a Python program to get movie name, year and a brief summary of the top 10 movies from url (https://www.imdb.com/chart/top/).
 
 a3. Download pdfs from https://www.nbp.com.pk/RATESHEET/index.aspx
 a4. Save all images form Wikipedia q2.
 
 a5. https://webscraper.io/test-sites/e-commerce/allinone/computers/laptops (product_name (full product name via clicking on link), product_link, product_img,product_price, product_details, product_reviews_number,product_reviews_star_number)
 
-	a5.1 Extract first product details save into csv file. e.g# Asus VivoBook X441NA-GA190
-	a5.2 Extract product details from first row & save into csv file. e.g# Asus VivoBook X441NA-GA190, Prestigio SmartBook 133S Dark Grey, Prestigio SmartBook 133S Gold
-	a5.3 Extract all product details from page & save into csv file.
-	a5.4 Extract all product details of first column save into csv file.
-	a5.5 Extract all product details of Second column save into csv file.
-	a5.6 Extract all product details of thirst column save into csv file.
+done	a5.1 Extract first product details save into csv file. e.g# Asus VivoBook X441NA-GA190
+done	a5.2 Extract product details from first row & save into csv file. e.g# Asus VivoBook X441NA-GA190, Prestigio SmartBook 133S Dark Grey, Prestigio SmartBook 133S Gold
+done	a5.3 Extract all product details from page & save into csv file.
+done	a5.4 Extract all product details of first column save into csv file.
+done	a5.5 Extract all product details of Second column save into csv file.
+done	a5.6 Extract all product details of thirst column save into csv file.
 
 
 
