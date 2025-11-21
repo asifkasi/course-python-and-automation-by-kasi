@@ -1,3 +1,23 @@
+pip install selenium
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+driver = webdriver.Chrome()
+driver.get("https://example.com")
+
+# elements = driver.find_element(By.ID, "product-title")
+# elements = driver.find_elements(By.CLASS_NAME, "product-title")
+# elements = driver.find_elements(By.NAME, "product-title")
+# elements = driver.find_elements(By.CSS_SELECTOR, "product-title")
+# elements = driver.find_elements(By.XPATH, "product-title")
+
+
+#soup = BeautifulSoup(driver.page_source, 'html.parser')
+soup = BeautifulSoup(driver.page_source, 'html')
+
+
+
 Basic
 
 Twitter.com/ x.com (https://x.com/asifokasi)
