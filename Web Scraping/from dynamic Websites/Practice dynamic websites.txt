@@ -1,0 +1,82 @@
+pip install selenium
+
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+
+driver = webdriver.Chrome()
+driver.get("https://example.com")
+
+# elements = driver.find_element(By.ID, "product-title")
+# elements = driver.find_elements(By.CLASS_NAME, "product-title")
+# elements = driver.find_elements(By.NAME, "product-title")
+# elements = driver.find_elements(By.CSS_SELECTOR, "product-title")
+# elements = driver.find_elements(By.XPATH, "product-title")
+
+
+#soup = BeautifulSoup(driver.page_source, 'html.parser')
+soup = BeautifulSoup(driver.page_source, 'html')
+
+
+
+Basic
+
+Twitter.com/ x.com (https://x.com/asifokasi)
+1. Write a Python program to get the number of followers of a given twitter account.
+2. Write a Python program to get the number of following on a Twitter account.
+3. Write a Python program to get the number of post on Twitter liked by a given account.
+4. Write a Python program to count number of tweets by a given Twitter account.
+5. Write a Python program to count number of tweets by a given Twitter account.
+
+Medium/Advance
+
+1. https://www.scrapethissite.com/pages/ajax-javascript/ (Title, Nominations, Awards, Best Picture)
+
+	1.1 Extract Table of year 2015 & save into csv file.
+	1.2 Extract Table of year 2014 & save into another csv file.
+	1.3 Extract Table of year 2013 & save into another csv file.
+	1.4 Extract Table of year 2012 & save into another csv file.
+	1.5 Extract Table of year 2011 & save into another csv file.
+	1.6 Extract Table of year 2010 & save into another csv file.
+	1.7 Extract Tables from year 2015 to 2010 & save into single csv file.
+	1.8 Extract Tables from year 2015 to 2010 & save into single csv file with year column. (year, Title, Nominations, Awards, Best Picture)
+
+2. https://www.scrapethissite.com/pages/frames/ (Testudines_name, url,img_url)
+	2.1 Extract first Testudines details save into csv file. e.g# Carettochelyidae
+	2.2 Extract Testudines family details save into csv file. e.g# Carettochelyidae, Cheloniidae, Chelydridae
+	2.3 Extract all Testudines family details save into csv file.
+	2.4 Extract all Testudines family details of first column save into csv file.
+	2.5 Extract all Testudines family details of Second column save into csv file.
+	2.6 Extract all Testudines family details of thirst column save into csv file.
+
+3. https://www.scrapethissite.com/pages/frames/ (Testudines_name, url,img_url,Testudines_deails via clicking on `Lean more` button)
+
+	3.1 Extract first Testudines details save into csv file. e.g# Carettochelyidae
+	3.2 Extract Testudines family details from first row & save into csv file. e.g# Carettochelyidae, Cheloniidae, Chelydridae
+	3.3 Extract all Testudines family details save into csv file.
+	3.4 Extract all Testudines family details of first column save into csv file.
+	3.5 Extract all Testudines family details of Second column save into csv file.
+	3.6 Extract all Testudines family details of thirst column save into csv file.
+ 
+4. https://webscraper.io/test-sites/e-commerce/ajax/computers/laptops (product_name, product_link, product_img, product_price, product_details, product_reviews_number, product_reviews_star_number )
+
+	4.1 Extract first product details save into csv file. e.g# Packard 255 G2
+	4.2 Extract product details from first row & save into csv file. e.g# Packard 255 G2, Aspire E1-510, ThinkPad T540p
+	4.3 Extract all product details from first page & save into csv file.
+	4.4 Extract all product details from second page & save into another csv file.
+	4.5 Extract all product details from first page to fifth page & save into single csv file.
+
+5. https://webscraper.io/test-sites/e-commerce/more/computers/laptops (product_name, product_link, product_img, product_price, product_details, product_reviews_number, product_reviews_star_number )
+
+	5.1 Extract first product details save into csv file. e.g# Asus VivoBook X4
+	5.2 Extract product details from first row & save into csv file. e.g# Asus VivoBook X4, Prestigio SmartB , Asus VivoBook X4
+	5.3 Extract all product details from first page & save into csv file.
+	5.4 Extract all product details from second page & save into another csv file.
+	5.5 Extract all product details from first page to fifth page & save into single csv file.
+
+6. https://webscraper.io/test-sites/e-commerce/scroll/computers/laptops (product_name, product_link, product_img, product_price, product_details, product_reviews_number, product_reviews_star_number )
+
+	6.1 Extract first product details save into csv file. e.g# Asus VivoBook X4
+	6.2 Extract product details from first row & save into csv file. e.g# Asus VivoBook X4, Prestigio SmartB , prestigio SmartB
+	6.3 Extract all product details from first page & save into csv file.
+	6.4 Extract all product details from second page & save into another csv file.
+	6.5 Extract all product details from first page to fifth page & save into single csv file.
