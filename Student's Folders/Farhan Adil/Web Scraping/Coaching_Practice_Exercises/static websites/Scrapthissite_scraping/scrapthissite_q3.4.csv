@@ -1,0 +1,101 @@
+Team_name,Year,Wins,Losses,Ot_losses,Win_%,Goal_for,Goal_Against,+/-,win%
+Boston Bruins,1990,44,24,,,299,264,35,0.55
+Buffalo Sabres,1990,31,30,,,292,278,14,0.388
+Calgary Flames,1990,46,26,,,344,263,81,0.575
+Chicago Blackhawks,1990,49,23,,,284,211,73,0.613
+Detroit Red Wings,1990,34,38,,,273,298,-25,0.425
+Edmonton Oilers,1990,37,37,,,272,272,0,0.463
+Hartford Whalers,1990,31,38,,,238,276,-38,0.388
+Los Angeles Kings,1990,46,24,,,340,254,86,0.575
+Minnesota North Stars,1990,27,39,,,256,266,-10,0.338
+Montreal Canadiens,1990,39,30,,,273,249,24,0.487
+New Jersey Devils,1990,32,33,,,272,264,8,0.4
+New York Islanders,1990,25,45,,,223,290,-67,0.312
+New York Rangers,1990,36,31,,,297,265,32,0.45
+Philadelphia Flyers,1990,33,37,,,252,267,-15,0.412
+Pittsburgh Penguins,1990,41,33,,,342,305,37,0.512
+Quebec Nordiques,1990,16,50,,,236,354,-118,0.2
+St. Louis Blues,1990,47,22,,,310,250,60,0.588
+Toronto Maple Leafs,1990,23,46,,,241,318,-77,0.287
+Vancouver Canucks,1990,28,43,,,243,315,-72,0.35
+Washington Capitals,1990,37,36,,,258,258,0,0.463
+Winnipeg Jets,1990,26,43,,,260,288,-28,0.325
+Boston Bruins,1991,36,32,,,270,275,-5,0.45
+Buffalo Sabres,1991,31,37,,,289,299,-10,0.388
+Calgary Flames,1991,31,37,,,296,305,-9,0.388
+Chicago Blackhawks,1991,36,29,,,257,236,21,0.45
+Detroit Red Wings,1991,43,25,,,320,256,64,0.537
+Edmonton Oilers,1991,36,34,,,295,297,-2,0.45
+Hartford Whalers,1991,26,41,,,247,283,-36,0.325
+Los Angeles Kings,1991,35,31,,,287,296,-9,0.438
+Minnesota North Stars,1991,32,42,,,246,278,-32,0.4
+Montreal Canadiens,1991,41,28,,,267,207,60,0.512
+New Jersey Devils,1991,38,31,,,289,259,30,0.475
+New York Islanders,1991,34,35,,,291,299,-8,0.425
+New York Rangers,1991,50,25,,,321,246,75,0.625
+Philadelphia Flyers,1991,32,37,,,252,273,-21,0.4
+Pittsburgh Penguins,1991,39,32,,,343,308,35,0.487
+Quebec Nordiques,1991,20,48,,,255,318,-63,0.25
+San Jose Sharks,1991,17,58,,,219,359,-140,0.212
+St. Louis Blues,1991,36,33,,,279,266,13,0.45
+Toronto Maple Leafs,1991,30,43,,,234,294,-60,0.375
+Vancouver Canucks,1991,42,26,,,285,250,35,0.525
+Washington Capitals,1991,45,27,,,330,275,55,0.562
+Winnipeg Jets,1991,33,32,,,251,244,7,0.412
+Boston Bruins,1992,51,26,,,332,268,64,0.607
+Buffalo Sabres,1992,38,36,,,335,297,38,0.452
+Calgary Flames,1992,43,30,,,322,282,40,0.512
+Chicago Blackhawks,1992,47,25,,,279,230,49,0.56
+Detroit Red Wings,1992,47,28,,,369,280,89,0.56
+Edmonton Oilers,1992,26,50,,,242,337,-95,0.31
+Hartford Whalers,1992,26,52,,,284,369,-85,0.31
+Los Angeles Kings,1992,39,35,,,338,340,-2,0.464
+Minnesota North Stars,1992,36,38,,,272,293,-21,0.429
+Montreal Canadiens,1992,48,30,,,326,280,46,0.571
+New Jersey Devils,1992,40,37,,,308,299,9,0.476
+New York Islanders,1992,40,37,,,335,297,38,0.476
+New York Rangers,1992,34,39,,,304,308,-4,0.405
+Ottawa Senators,1992,10,70,,,202,395,-193,0.119
+Philadelphia Flyers,1992,36,37,,,319,319,0,0.429
+Pittsburgh Penguins,1992,56,21,,,367,268,99,0.667
+Quebec Nordiques,1992,47,27,,,351,300,51,0.56
+San Jose Sharks,1992,11,71,,,218,414,-196,0.131
+St. Louis Blues,1992,37,36,,,282,278,4,0.44
+Tampa Bay Lightning,1992,23,54,,,245,332,-87,0.274
+Toronto Maple Leafs,1992,44,29,,,288,241,47,0.524
+Vancouver Canucks,1992,46,29,,,346,278,68,0.548
+Washington Capitals,1992,43,34,,,325,286,39,0.512
+Winnipeg Jets,1992,40,37,,,322,320,2,0.476
+Mighty Ducks of Anaheim,1993,33,46,,,229,251,-22,0.393
+Boston Bruins,1993,42,29,,,289,252,37,0.5
+Buffalo Sabres,1993,43,32,,,282,218,64,0.512
+Calgary Flames,1993,42,29,,,302,256,46,0.5
+Chicago Blackhawks,1993,39,36,,,254,240,14,0.464
+Dallas Stars,1993,42,29,,,286,265,21,0.5
+Detroit Red Wings,1993,46,30,,,356,275,81,0.548
+Edmonton Oilers,1993,25,45,,,261,305,-44,0.298
+Florida Panthers,1993,33,34,,,233,233,0,0.393
+Hartford Whalers,1993,27,48,,,227,288,-61,0.321
+Los Angeles Kings,1993,27,45,,,294,322,-28,0.321
+Montreal Canadiens,1993,41,29,,,283,248,35,0.488
+New Jersey Devils,1993,47,25,,,306,220,86,0.56
+New York Islanders,1993,36,36,,,282,264,18,0.429
+New York Rangers,1993,52,24,,,299,231,68,0.619
+Ottawa Senators,1993,14,61,,,201,397,-196,0.167
+Philadelphia Flyers,1993,35,39,,,294,314,-20,0.417
+Pittsburgh Penguins,1993,44,27,,,299,285,14,0.524
+Quebec Nordiques,1993,34,42,,,277,292,-15,0.405
+San Jose Sharks,1993,33,35,,,252,265,-13,0.393
+St. Louis Blues,1993,40,33,,,270,283,-13,0.476
+Tampa Bay Lightning,1993,30,43,,,224,251,-27,0.357
+Toronto Maple Leafs,1993,43,29,,,280,243,37,0.512
+Vancouver Canucks,1993,41,40,,,279,276,3,0.488
+Washington Capitals,1993,39,35,,,277,263,14,0.464
+Winnipeg Jets,1993,24,51,,,245,344,-99,0.286
+Mighty Ducks of Anaheim,1994,16,27,,,125,164,-39,0.333
+Boston Bruins,1994,27,18,,,150,127,23,0.562
+Buffalo Sabres,1994,22,19,,,130,119,11,0.458
+Calgary Flames,1994,24,17,,,163,135,28,0.5
+Chicago Blackhawks,1994,24,19,,,156,115,41,0.5
+Dallas Stars,1994,17,23,,,136,135,1,0.354
+Detroit Red Wings,1994,33,11,,,180,117,63,0.688
