@@ -40,7 +40,7 @@ done	1.8 Extract Tables from year 2015 to 2010 & save into single csv file with 
 
 2. https://www.scrapethissite.com/pages/frames/ (Testudines_name, url,img_url)
 	2.1 Extract first Testudines details save into csv file. e.g# Carettochelyidae
-	2.2 Extract Testudines family details save into csv file. e.g# Carettochelyidae, Cheloniidae, Chelydridae
+	2.2 Extract Testudines family from first row details save into csv file. e.g# Carettochelyidae, Cheloniidae, Chelydridae
 	2.3 Extract all Testudines family details save into csv file.
 	2.4 Extract all Testudines family details of first column save into csv file.
 	2.5 Extract all Testudines family details of Second column save into csv file.
