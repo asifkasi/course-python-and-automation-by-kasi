@@ -1,0 +1,4 @@
+product_name,product_link,product_img,product_price,product_details,product_reviews_number,product_reviews_star_number
+Aspire E1-510,/test-sites/e-commerce/scroll/product/32,/images/test-sites/e-commerce/items/cart2.png,$306.99,"15.6"", Pentium N3520 2.16GHz, 4GB, 500GB, Linux",2 reviews,
+Lenovo V110-15IA,/test-sites/e-commerce/scroll/product/63,/images/test-sites/e-commerce/items/cart2.png,$321.94,"Lenovo V110-15IAP, 15.6"" HD, Celeron N3350 1.1GHz, 4GB, 128GB SSD, Windows 10 Home",12 reviews,
+Lenovo V110-15IA,/test-sites/e-commerce/scroll/product/64,/images/test-sites/e-commerce/items/cart2.png,$356.49,"Asus VivoBook 15 X540NA-GQ008T Chocolate Black, 15.6"" HD, Pentium N4200, 4GB, 500GB, Windows 10 Home, En kbd",12 reviews,
