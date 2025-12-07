@@ -1,0 +1,16 @@
+1. Write a function that takes two numbers as input and returns their sum.
+2. Write a function that takes a string and returns it in uppercase.
+3. Create a function that checks if a number is even or odd.
+4. Write a function that takes a list and returns the maximum value.
+5. Create a function that prints a multiplication table of a given number.
+6. Write a function that takes a list of numbers and returns only the even numbers.
+7. Create a function that counts how many vowels are in a string.
+8. Write a function that finds the factorial of a number (using recursion).
+9. Create a function that reverses a string without using slicing.
+10. Write a function that accepts a dictionary and returns the key with the maximum value.
+11. Write a function that checks if a given string is a palindrome.
+12. Create a function that calculates the Fibonacci sequence up to `n` terms.
+13. Write a function that takes a sentence and returns a dictionary with word frequencies.
+14. Create a function that takes any number of arguments and returns their average.
+15. Write a function that simulates a calculator (supports +, -, \*, / based on user input).
+
